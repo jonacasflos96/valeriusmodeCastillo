@@ -5,6 +5,8 @@
   .navbar a {
     color: #0c1313;
     font-size: 16px; }
+  .navbar .card {
+    background-color: #edf3ed; }
 
 .footer {
   background-color: #302e2e;
@@ -31,11 +33,5 @@
 .main img {
   width: 100%; }
 
-.main card-body {
-  background-color: green; }
-
-.main tarjetita {
-  background-color: #f0f5f0; }
-
-.tarjetita {
-  background-color: #f0f5f0; }
+.main .tarjetita {
+  background-color: #e9f8e9; }
