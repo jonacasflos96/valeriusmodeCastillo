@@ -1,0 +1,41 @@
+.navbar {
+  height: 75px; }
+  .navbar li {
+    padding: 8px; }
+  .navbar a {
+    color: #0c1313;
+    font-size: 16px; }
+
+.footer {
+  background-color: #302e2e;
+  height: 150px;
+  display: grid;
+  align-items: center;
+  place-content: center; }
+  .footer p {
+    color: azure;
+    font-size: 16px; }
+
+.btn {
+  background-color: #248af0;
+  color: #fcfafa;
+  border: 0;
+  padding: 7px 10px;
+  align-items: center; }
+
+.main h1 {
+  font-size: 45px;
+  color: #363030;
+  margin-top: 0px; }
+
+.main img {
+  width: 100%; }
+
+.main card-body {
+  background-color: green; }
+
+.main tarjetita {
+  background-color: #f0f5f0; }
+
+.tarjetita {
+  background-color: #f0f5f0; }
